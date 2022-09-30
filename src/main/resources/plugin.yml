@@ -1,0 +1,4 @@
+name: Minigame
+version: '${project.version}'
+main: minigame.minigame.Minigame
+api-version: 1.19
